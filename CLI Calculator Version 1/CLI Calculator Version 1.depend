@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758805616 source:c:\learning\c++\codeblocks github projects\cli calculator version 1\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

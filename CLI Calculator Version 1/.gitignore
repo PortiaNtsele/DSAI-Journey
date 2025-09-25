@@ -1,0 +1,7 @@
+# Ignore build files
+bin/
+obj/
+
+# Ignore Code::Blocks project files
+*.cbp
+*.depend
